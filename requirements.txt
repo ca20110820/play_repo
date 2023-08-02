@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+sympy
+simpy
+deap
+scikit-learn
