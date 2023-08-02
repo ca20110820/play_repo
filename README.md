@@ -5,6 +5,7 @@ Blah Blah Blah
 This is being editted in Vim.
 
 **Some Bold Text**
+
 *Some Italic Text*
 
 ```
@@ -16,4 +17,16 @@ while i < 1000:
     i += 1
 ```
 
+# How to use this package
 
+## Step 1: Be Great
+This is because being great is awesome!
+## Step 2: End of Algorithm
+Thats all.
+
+
+# Creating table
+| Col1 | Col2 |
+| ---- | ---- |
+| v11 | v12 |
+| v21 | v22 |
